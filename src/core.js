@@ -1,0 +1,1 @@
+addScript('/src/modules/routing.js')
